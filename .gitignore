@@ -1,2 +1,6 @@
 __pycache__/
 venv/
+.pytest_cache/
+
+# Base de datos local de la aplicación (se crea al arrancar)
+*.db
